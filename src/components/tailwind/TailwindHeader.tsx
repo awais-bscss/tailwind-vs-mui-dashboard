@@ -36,7 +36,7 @@ export const TailwindHeader: React.FC<TailwindHeaderProps> = ({
 
         <div className="flex items-center gap-2 pl-2">
           <img
-            src="/avatar.jpg"
+            src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80"
             alt="MA."
             className="w-8 h-8 rounded-full object-cover border border-gray-200"
           />

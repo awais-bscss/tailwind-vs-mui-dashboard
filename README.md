@@ -81,7 +81,6 @@ Week10/
 ├── package.json
 ├── README.md
 ├── public/
-│   ├── avatar.jpg
 │   └── favicon.svg
 └── src/
     ├── main.tsx
