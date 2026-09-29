@@ -202,23 +202,6 @@ All interfaces are defined in `types/dashboard.ts` with **zero `any` types**. Pr
 
 ---
 
-## Checklist
-
-- [x] Dual dashboard implemented (Tailwind CSS and Material UI)
-- [x] Initial engine selector landing screen implemented
-- [x] Exact layout and data parity across both implementations
-- [x] Shared TypeScript interfaces with zero `any`
-- [x] Custom Tailwind config with extended design tokens
-- [x] Custom MUI theme with `ThemeProvider` and component overrides
-- [x] Component decomposition (7-8 focused components per implementation)
-- [x] Interactive view switcher with engine return navigation
-- [x] In-app 5-pillar comparison report with code snippets
-- [x] Fixed-position bulk action bar with contextual visibility
-- [x] Modular documentation (`README.md` in each component and theme directory)
-- [x] Production build tested with zero TypeScript errors
-
----
-
 ## License
 
 MIT
