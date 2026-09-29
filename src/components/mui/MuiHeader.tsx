@@ -61,7 +61,7 @@ export const MuiHeader: React.FC<MuiHeaderProps> = ({
 
         <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, pl: 1 }}>
           <Avatar
-            src="/avatar.jpg"
+            src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80"
             alt="MA."
             sx={{ width: 32, height: 32 }}
           />
